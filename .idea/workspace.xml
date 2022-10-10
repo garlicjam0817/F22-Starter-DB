@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da1dee2a-7693-4468-9877-ac7bd6d9e853" name="Changes" comment="" />
+    <list default="true" id="da1dee2a-7693-4468-9877-ac7bd6d9e853" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/aad913db-55cd-4a4f-afd5-ebba8690accd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/aad913db-55cd-4a4f-afd5-ebba8690accd.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,27 +16,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/consoles/db/aad913db-55cd-4a4f-afd5-ebba8690accd/console.sql" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectId" id="2FHUHbt7ihtp20VXWsQFd8e2RTv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenDatabaseViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/gary/Documents/GitHub/F22-Starter-DB&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "import_schema_mapping": "<schema-mapping>\n  <databases>\n    <list>\n      <schema-mapping-item>\n        <source-data-source-id>a7509307-3028-4b0d-ae3e-d05f4b75b007</source-data-source-id>\n        <source-path>schema/&quot;f22_databases&quot;</source-path>\n        <target-data-source-id>aad913db-55cd-4a4f-afd5-ebba8690accd</target-data-source-id>\n        <target-path>schema/&quot;f22_databases&quot;</target-path>\n      </schema-mapping-item>\n    </list>\n  </databases>\n</schema-mapping>",
+    "last_opened_file_path": "/Users/gary/Documents/GitHub/F22-Starter-DB"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ],
-    &quot;RunConfigurationTargetLRU&quot;: [
-      &quot;a7509307-3028-4b0d-ae3e-d05f4b75b007&quot;
+    "RunConfigurationTargetLRU": [
+      "a7509307-3028-4b0d-ae3e-d05f4b75b007"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
